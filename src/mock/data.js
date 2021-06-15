@@ -20,7 +20,7 @@ export const aboutData = {
   paragraphOne:
     'B.E in Computer Science, Tsinghua University, Beijing, with a minor in Internet Finance and Entrepreneurship.',
   paragraphTwo:
-    'Interested in human-computer interaction research, especially for virtual/augmented reality, and brain-computer interface. I hope to pursue Ph.D. degree in relevant fields.',
+    'Interested in human-computer interaction research, especially for virtual/augmented reality and brain-computer interface. I hope to pursue a Ph.D. degree in relevant fields.',
   paragraphThree:
     'Making efforts to step closer to a better world with innovative and accessible technology.',
   resume: 'https://drive.google.com/file/d/16m31zamIoB6VwVsXQhxovgtFjhrXvxrP/view?usp=sharing', // if no resume, the button will not show up
@@ -35,7 +35,7 @@ export const projectsData = [
     info:
       'Best paper honorable mention in ACM SIGCHI 2020. Mentored by Xiang Anthony Chen in UCLA HCI Research.',
     info2:
-      'OralCam is a mobile health research that aims to contribute to the issue of ignorance to oral health due to lack of resource by enabling people to self-exam common oral symptoms with smartphones.',
+      'OralCam is a mobile health research that contributes to ignorance of oral health due to lack of resources by enabling people to self-examine common oral symptoms with smartphones.',
     url: 'https://dl.acm.org/doi/abs/10.1145/3313831.3376238',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
@@ -43,8 +43,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Feel free to contact me if you need more information. Nice to meet you!',
-  btn: 'Mail to me',
+  cta: 'Feel free to contact me if you need more information. Nice to meet you =)',
+  btn: 'Message',
   email: 'f.hsuanwei@gmail.com',
 };
 
