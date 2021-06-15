@@ -22,7 +22,7 @@ const Header = () => {
     }
   }, []);
 
-  const roles = ['a programmer', 'a HCI researcher', 'a photographer'];
+  const roles = ['a developer', 'a HCI researcher', 'a photographer'];
   return (
     <section id="hero" className="jumbotron">
       <Container>
