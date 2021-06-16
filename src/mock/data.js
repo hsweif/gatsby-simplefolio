@@ -54,14 +54,13 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/hsuanweifan/',
     },
     {
       id: nanoid(),
       name: 'github',
       url: 'https://github.com/hsweif',
     },
-
     {
       id: nanoid(),
       name: 'medium',
